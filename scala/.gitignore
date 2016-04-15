@@ -10,7 +10,7 @@ syntax: glob
 # eclipse conf file
 .settings
 .classpath
-.project
+#.project
 .manager
 .scala_dependencies
 
