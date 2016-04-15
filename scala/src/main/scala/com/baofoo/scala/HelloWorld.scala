@@ -6,5 +6,7 @@ object HelloWorld {
     var x = 5  //声明变量
     var z:Double = 7  //类型可省略， Scala可以推断出数据类型
     val y = 6  //声明常量
+    
+    println(x * y)
   }
 }
