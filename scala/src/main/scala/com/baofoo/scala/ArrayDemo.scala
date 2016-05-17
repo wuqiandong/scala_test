@@ -41,5 +41,6 @@ object ArrayDemo {
       
     for (i <- (0) .to (2))
       println(arr2(i))
+      
   }
 }
